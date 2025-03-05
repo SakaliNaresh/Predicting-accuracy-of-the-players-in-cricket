@@ -3,6 +3,7 @@
 INTRODUCTION
 
 PROJECT SCOPE 
+
 The proposed system lays the groundwork for future research and development in 
 cricket analytics by allowing for the refinement and optimization of machine learning 
 algorithms for player accuracy prediction, including the exploration of advanced techniques 
@@ -13,6 +14,7 @@ understanding of player accuracy and enabling more nuanced predictions tailored 
 game scenarios.  
 
 PROJECT PURPOSE 
+
 The purpose of this project is to develop a machine learning-based approach for 
 predicting the performance and accuracy of cricket players by analyzing historical player 
 statistics. By employing various machine learning algorithms and feature selection 
